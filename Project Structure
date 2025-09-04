@@ -1,0 +1,10 @@
+digital-menu/
+├── backend/
+│   ├── orders.json
+│   ├── package.json
+│   └── server.js
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── README.md
